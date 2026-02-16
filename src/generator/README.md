@@ -4,7 +4,6 @@ The generator is coded in Python.
 First, add the Python library path in your environment:
 ```
 export PYTHONPATH=$(realpath <wi4mpi_root>/src/generator)
-export PATH=
 ```
 
 You also need to install requirements from `requirements.txt` file.
