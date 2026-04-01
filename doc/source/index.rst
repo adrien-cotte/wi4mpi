@@ -33,4 +33,4 @@ If you are referencing Wi4MPI in a publication, you can cite the following paper
 Wi4MPI License
 ==============
 
-Wi4MPI is distributed under the BSD-3-Clause OR CeCILL-B license.
+Wi4MPI is distributed under the BSD-3-Clause            license.

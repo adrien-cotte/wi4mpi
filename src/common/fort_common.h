@@ -5,7 +5,7 @@
 //# IDDN.FR.001.210022.000.S.P.2014.000.10800                            #
 //# This file is part of the Wi4MPI library.                             #
 //#                                                                      #
-//# SPDX-License-Identifier: BSD-3-Clause OR CeCILL-B                    #
+//# SPDX-License-Identifier: BSD-3-Clause                               #
 //#                                                                      #
 //#                                                                      #
 //# Authors:                                                             #
